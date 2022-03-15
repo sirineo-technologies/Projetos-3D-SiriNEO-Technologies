@@ -3,13 +3,13 @@
 Aqui apresentaremos alguns projetos de cases 3D que fizemos
 
 <p align="center">
-<img width="640" height="479" src="https://github.com/sirineo-technologies/BabacuLAB-Vicente/blob/main/fotoslab/baba%C3%A7ulab-vicente.jpeg">
+<img width="640" height="360" src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/case%20basico%20jarm.png">
 </p align="center">
 
-Estaremos colocando aqui o dia a dia de nosso Laboratório BabaçuLAB Vicente, e colocando dicas de como organiar montar nossos PCBS.
+Case 3D GongoMESH.
 
 <p align="center">
-<img width="640" height="479" src="https://github.com/sirineo-technologies/BabacuLAB-Vicente/blob/main/fotoslab/baba%C3%A7ulab-vicente2.jpeg">
+<img width="640" height="360" src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/Case%20gongomesh1.png">
 </p align="center">
 
 <br>
