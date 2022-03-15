@@ -9,7 +9,7 @@ Aqui apresentaremos alguns projetos de cases 3D que fizemos
 Case 3D GongoMESH.
 
 <p align="center">
-<img width="640" height="360" src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/Case%20gongomesh1.png">
+<img width="640" height="480" src="https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies/blob/main/figuras3Dcases/Case%20gongomesh1.png">
 </p align="center">
 
 <br>
